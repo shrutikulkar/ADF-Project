@@ -8,12 +8,10 @@ Requirements:
     Python 3.x
     Scapy 2.x
     tkinter library
-    Installation:
 
-Install Python 3.x.
-
+Installation:
+    Install Python 3.x.
     Install Scapy and tkinter libraries using the following commands in the command prompt or terminal:
-
     pip install scapy
     pip install tkinter
 
